@@ -1,4 +1,4 @@
-# Private browser using PyQT5 by chat-GPT
+# Private browser using PyQT5 by Chat-GPT
 
 In recent times, OpenAI's Chat-GPT has generated incredible attention in the tech community.
 This is one illustration of a Python-based private web browser.
